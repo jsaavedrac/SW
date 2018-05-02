@@ -176,6 +176,16 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.0.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/capybara-3.0.1/.yard" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/capybara-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/capybara-3.0.1/.yard" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/capybara-3.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.0.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/capybara-3.0.3/lib" />
@@ -558,6 +568,22 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.2/data" />
       </SOURCES>
     </library>
+    <library name="puma (v3.11.3, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.3" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/tools" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.3" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/tools" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/puma-3.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.11.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.4" />
@@ -882,6 +908,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/uglifier-4.1.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.9, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/uglifier-4.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/uglifier-4.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.6.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/web-console-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/web-console-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v3.6.2, ruby-2.4.1-p111) [gem]">
